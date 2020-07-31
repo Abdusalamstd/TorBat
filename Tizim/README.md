@@ -1,1 +1,3 @@
 Like:
+![Sample](/1.png)
+![Sample](/2.png)
