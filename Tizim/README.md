@@ -1,3 +1,3 @@
 Like:
-![Sample](/1.png)
-![Sample](/2.png)
+![Sample](/Tizim/1.png)
+![Sample](/Tizim/2.png)
